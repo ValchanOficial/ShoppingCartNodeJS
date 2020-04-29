@@ -1,0 +1,4 @@
+node_modules/
+output.xml
+package-lock.json
+stdout.txt

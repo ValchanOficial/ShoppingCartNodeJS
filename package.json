@@ -1,0 +1,16 @@
+{
+  "name": "react-14",
+  "version": "1.0.0",
+  "description": "Codenation - Javascript: Carrinho de compras usando NodeJS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest test/index.test.js",
+    "test:watch": "jest test/index.test.js --watch"
+  },
+  "author": "Valéria Padilha de Vargas",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "jest-junit": "^10.0.0"
+  }
+}
